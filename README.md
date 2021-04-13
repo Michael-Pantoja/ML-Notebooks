@@ -11,3 +11,4 @@ If you have any recommendations or topics you would like to see covered, feel fr
 ## Current Topics Covered
 
 - K-Nearest Neighbors (KNN)
+- K-Means Clustering
