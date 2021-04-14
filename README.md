@@ -12,3 +12,4 @@ If you have any recommendations or topics you would like to see covered, feel fr
 
 - K-Nearest Neighbors (KNN)
 - K-Means Clustering
+- Support Vector Machines (SVM)
